@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edemialem Tamiru</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
-<img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/111135990/204475565-f1332458-c3c3-4e35-b8c5-5d0c47efbf29.png)
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/111135990/204475565-f1332458-c3c3-4e35-b8c5-5d0c47efbf29.png)
 ">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edemialemtamiru&label=Profile%20views&color=0e75b6&style=flat" alt="edemialemtamiru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edemialemtamiru" alt="edemialemtamiru" /></a> </p>
